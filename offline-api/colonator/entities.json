@@ -1,0 +1,14 @@
+{
+    "experience_orb": "xp_orb",
+    "experience_bottle": "xp_bottle",
+    "eye_of_ender": "eye_of_ender_signal",
+    "end_crystal": "ender_crystal",
+    "firework_rocket": "fireworks_rocket",
+    "command_block_minecart": "commandblock_minecart",
+    "snow_golem": "snowman",
+    "iron_golem": "villager_gollem",
+    "evoker_fangs": "evocation_fangs",
+    "evoker": "evocation_illager",
+    "vindicator": "vindication_illager",
+    "illusioner": "illusion_illager"
+}
